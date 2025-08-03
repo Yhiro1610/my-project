@@ -3,7 +3,7 @@
 
 int main(int argc ,char **argv){
     //ここから改善していくよ
-
+    //ここを修正しました
     if(argc != 2){
         printf("usage:build/test1.exe <Image Path>\n");
         return -1;
